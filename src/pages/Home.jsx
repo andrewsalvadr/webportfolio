@@ -154,17 +154,6 @@ function Home() {
               {" "}
               TAILWIND, REACT-REDUX, REACT JS
             </h3>
-
-                  <div className="h-44"> 
-            <p className="text-red-400 mx-12">Backend language soon..</p>
-            <lottie-player 
-              src="https://assets8.lottiefiles.com/packages/lf20_8uHQ7s.json"
-              background="transparent"
-              speed="1"
-              loop
-              autoplay
-            ></lottie-player>
-            </div>
           </div>
         </div>
       </div>
