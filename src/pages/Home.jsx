@@ -102,7 +102,7 @@ function Home() {
 
           <p className="text-4xl text-white rotate-6 text-center mr-16 md:rotate-0 md:text-4xl md:ml-8">
             So <b className="text-blue-500">Frontend</b>
-            <b className=" text-red-500">Design</b> is what{" "}
+            <b className=" text-red-500"> Dev</b> is what{" "}
             <b className="text-violet-500">I</b>{" "}
             <b className=" text-violet-500">do</b>
           </p>
@@ -156,7 +156,7 @@ function Home() {
             </h3>
 
                   <div className="h-44"> 
-            <p className="text-red-400 mx-12">Backend languages soon..</p>
+            <p className="text-red-400 mx-12">Backend language soon..</p>
             <lottie-player 
               src="https://assets8.lottiefiles.com/packages/lf20_8uHQ7s.json"
               background="transparent"
