@@ -29,7 +29,7 @@ function Home() {
               ></lottie-player>
             </div>
 
-            <div className="font-bold text-white md:px-5">
+            <div className="font-bold text-white md:px-5 sm:ml-14">
               <h1 className="text-7xl md:text-4xl" data-aos="slide-right">
                 Hello, I am <b className="text-blue-500">ANDREW</b>
               </h1>
@@ -100,7 +100,7 @@ function Home() {
             ></lottie-player>
           </div>
 
-          <p className="text-4xl text-white rotate-6 text-center mr-16 md:rotate-0 md:text-4xl md:ml-8">
+          <p className="text-4xl text-white rotate-6 text-center mr-16 md:rotate-0 md:text-4xl md:ml-8 sm:ml-12">
             So <b className="text-blue-500">Frontend</b>
             <b className=" text-red-500"> Dev</b> is what{" "}
             <b className="text-violet-500">I</b>{" "}

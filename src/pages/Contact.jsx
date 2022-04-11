@@ -18,7 +18,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
   return (
     <Layout>
-      <div className='flex-col justify-center'>
+      <div className='flex-col justify-center sm:m-12'>
 
           <div className='mt-6 p-6 text-center'>
         <h1 className='mt-6 p-6 text-4xl text-theme'>Get in touch</h1>
