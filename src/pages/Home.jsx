@@ -52,32 +52,32 @@ function Home() {
           <FaReact
             size={160}
             color="cyan"
-            className="w-full text-center mt-20"
+            className="w-full text-center mt-20 sm:h-16"
           />
           <FaJs
             size={160}
             color="orange"
-            className="w-full text-center mt-20 animate-bounce"
+            className="w-full text-center mt-20 animate-bounce sm:h-16"
           />
           <SiTailwindcss
             size={160}
             color="green"
-            className="w-full text-center mt-20"
+            className="w-full text-center mt-20 sm:h-16"
           />
           <FaBootstrap
             size={160}
             color="purple"
-            className="w-full text-center mt-20 animate-bounce"
+            className="w-full text-center mt-20 animate-bounce sm:h-16"
           />
           <FaCss3
             size={160}
             color="blue"
-            className="w-full text-center mt-20"
+            className="w-full text-center mt-20 sm:h-16"
           />
           <FaHtml5
             size={160}
             color="red"
-            className="w-full text-center mt-20 animate-bounce"
+            className="w-full text-center mt-20 animate-bounce sm:h-16"
           />
         </div>
       </div>
@@ -146,11 +146,11 @@ function Home() {
             <h1 className="text-xl font-bold font-pops text-blue-500 mb-5">
               Current Tech Stacks:
             </h1>
-            <h3 className="font-pops text-blue-500">
+            <h3 className="font-pops text-blue-500 sm:text-xs">
               {" "}
               HTML5, CSS3, BOOTSTRAP5, JAVASCRIPT,
             </h3>
-            <h3 className="font-pops text-blue-500 mb-5">
+            <h3 className="font-pops text-blue-500 mb-5 sm:text-xs">
               {" "}
               TAILWIND, REACT-REDUX, REACT JS
             </h3>
@@ -168,11 +168,11 @@ function Home() {
             <a href={project.link} key={project.image}>
               <div>
                 <div className="relative m-10 border-2 text-center border-theme">
-                  <img
+                  <img 
                     src={project.image}
                     height="300"
                     width="300"
-                    className="w-full h-96 xl-96 lg:h-52 md:h-52 sm:h-44"
+                    className="w-full h-96 xl-96 lg:h-52 md:h-52 sm:h-32"
                   />
                   <div
                     className="absolute inset-0 flex items-center justify-center flex-col cursor-pointer opacity-0 bg-theme hover:opacity-60"
