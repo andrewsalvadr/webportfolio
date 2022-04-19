@@ -19,7 +19,7 @@ function Home() {
             className="bg-theme grid md:grid-cols-1 grid-cols-2 h-screen items-center 
           border-4 border-white transform  rotate-12 md:rotate-0 md:border-0 mx-10"
           >
-            <div className="h-1/2" data-aos="slide-down">
+            <div className="h-1/2 sm:h-96" data-aos="slide-down">
               <lottie-player
                 src="https://assets2.lottiefiles.com/packages/lf20_gnb0jsok.json"
                 background="transparent"
@@ -86,8 +86,8 @@ function Home() {
       <div className="my-20 bg-theme">
         <div className="bg-theme py-12 border-4 border-white transform -rotate-6 md:rotate-0 md:border-0 mx-10">
           <h1 className="text-white font-bold text-4xl text-center py-12 rotate-6 md:rotate-0">
-            Mostly, I use <b className=" text-blue-500">React.</b>
-            <b className=" text-red-500">Js</b>
+            My language is <b className=" text-blue-500">Java</b>
+            <b className=" text-red-500">Script</b>
           </h1>
 
           <div className="h-96 mb-6 rotate-6 md:rotate-0" data-aos="zoom">
@@ -101,8 +101,8 @@ function Home() {
           </div>
 
           <p className="text-4xl text-white rotate-6 text-center mr-16 md:rotate-0 md:text-4xl md:ml-8 sm:ml-12">
-            So <b className="text-blue-500">Frontend</b>
-            <b className=" text-red-500"> Dev</b> is what{" "}
+            and <b className="text-blue-500">Frontend</b>
+            <b className=" text-red-500"> is</b> what{" "}
             <b className="text-violet-500">I</b>{" "}
             <b className=" text-violet-500">do</b>
           </p>
@@ -154,9 +154,13 @@ function Home() {
               {" "}
               TAILWIND, REACT-REDUX, REACT JS
             </h3>
+            <a href="/contact" className="flex justify-center font-pops font-bold text-white bg-blue-500 p-1 border border-white hover:bg-blue-600">Contact me</a>
+
           </div>
         </div>
       </div>
+
+
 
       <h1 className="text-4xl font-bold text-left text-blue-500 text-center mt-6">
         Projects
