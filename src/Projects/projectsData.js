@@ -3,7 +3,7 @@ const projectsData = [
       title: "Talent Wise",
       image: "./talentwise.png",
       description:
-        "A responsive recruitment agency developed using reactjs and tailwind css.",
+        "A responsive web-landing page of a recruitment agency developed using reactjs, tailwind css and some vanilla css.",
         link: "https://mystaffonline.vercel.app/",
     },
     {
