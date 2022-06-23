@@ -1,5 +1,12 @@
 const projectsData = [
     {
+      title: "Admin Dashboard",
+      image: "./admindashboard.png",
+      description:
+        "A basic Admin dashboard layout using html, vanilla css & javascript that can add, select or delete profile, upload photo & edit dashboard info.",
+        link: "https://admin-dashboard-tau-flax.vercel.app/",
+    },
+    {
       title: "Talent Wise",
       image: "./talentwise.png",
       description:
