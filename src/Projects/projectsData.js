@@ -3,7 +3,7 @@ const projectsData = [
       title: "Amaika AI - Travel Assistant for Families",
       image: "./amaikaplan.png",
       description:
-        "As a co-founder project, I coded this working web app for creating travel plans with AI for families using Next.js, Google Firebase, the Stripe API, the GPT-4 API, and Material UI. Additionally, I created the design and styles using the Figma app.",
+        "As a co-founder, I coded this working web app for creating travel plans with AI for families using Next.js, Google Firebase, Stripe API for payment gateway, Open AI API (GPT-4), and Material UI. Additionally, I created the design and styles using the Figma app.",
         link: "https://amaika.ai/",
     },
     {
@@ -21,11 +21,11 @@ const projectsData = [
         link: "https://cornpop-trailers.vercel.app/",
     },
     {
-      title: "Talent Wise",
-      image: "./talentwise.png",
+      title: "Spill Coffee",
+      image: "spillcoffee.png",
       description:
-        "A responsive web-landing page of a recruitment agency developed using reactjs, tailwind css and some vanilla css.",
-        link: "https://mystaffonline.vercel.app/",
+      "A responsive static coffee supplier business website developed using html, tailwind, javascript with contact email form.",
+      link: "https://spill-coffee.vercel.app/",
     },
     {
       title: "Money Leaf",
@@ -42,13 +42,6 @@ const projectsData = [
       link: "https://golden-bridge.vercel.app/",
     },
     {
-      title: "Spill Coffee",
-      image: "spillcoffee.png",
-      description:
-      "A responsive static coffee supplier business website developed using html, tailwind, javascript with contact email form.",
-      link: "https://spill-coffee.vercel.app/",
-    },
-    {
       title: "Admin Dashboard",
       image: "./admindashboard.png",
       description:
@@ -61,6 +54,13 @@ const projectsData = [
       description:
         "Chat messaging application developed using react-hooks, basic css, google firebase authentication and stored data to cloud firestore.",
         link: "https://moo-chat.vercel.app/",
+    },
+    {
+      title: "Talent Wise",
+      image: "./talentwise.png",
+      description:
+        "A responsive web-landing page of a recruitment agency developed using reactjs, tailwind css and some vanilla css.",
+        link: "https://mystaffonline.vercel.app/",
     },
     {
       title: "Design by Decks",
