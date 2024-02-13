@@ -1,5 +1,12 @@
 const projectsData = [
     {
+      title: "Amaika AI",
+      image: "./amaikaplan.png",
+      description:
+        "As a co-founder project, I coded this working web app for creating travel plans with AI for families using Next.js, Google Firebase, the Stripe API, the GPT-4 API, and Material UI. Additionally, I created the design and styles using the Figma app.",
+        link: "https://amaika.ai/",
+    },
+    {
       title: "Admin Dashboard",
       image: "./admindashboard.png",
       description:
@@ -61,13 +68,6 @@ const projectsData = [
       description:
       "A responsive one page architect business application developed using react, tailwind with contact email form.",
       link: "https://architect-website-blue.vercel.app/",
-    },
-    {
-      title: "Atf Precision",
-      image: "atf-resources.png",
-      description:
-       "A responsive static semi-conductor business website developed using html, bootstrap5, javascript with contact email form.",
-       link: "http://atfprecision.tech/",
     },
   ];
   

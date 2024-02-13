@@ -148,11 +148,15 @@ function Home() {
             </h1>
             <h3 className="font-pops text-blue-500 sm:text-xs">
               {" "}
-              HTML5, CSS3, BOOTSTRAP5, JAVASCRIPT,
+              REACTJS, NEXTJS, GOOGLE FIREBASE,
+            </h3>
+            <h3 className="font-pops text-blue-500 sm:text-xs">
+              {" "}
+              JAVASCRIPT, CSS3, BOOTSTRAP5, TAILWIND, MATERIAL UI,
             </h3>
             <h3 className="font-pops text-blue-500 mb-5 sm:text-xs">
               {" "}
-              TAILWIND, REACT-REDUX, REACT JS
+              CAN WORK WITH: EXPRESS, NODEJS, POSTGRESQL, STRIPE API, FIGMA 
             </h3>
             <a href="/contact" className="flex justify-center font-pops font-bold text-white bg-blue-500 p-1 border border-white hover:bg-blue-600">Contact me</a>
 
