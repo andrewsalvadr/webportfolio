@@ -166,7 +166,7 @@ function Home() {
 
 
 
-      <h1 className="text-4xl font-bold text-left text-blue-500 text-center mt-6">
+      <h1 className="text-4xl font-bold text-blue-500 text-center mt-6">
         Projects
       </h1>
 
