@@ -3,7 +3,7 @@ const projectsData = [
       title: "Amaika AI - Travel Assistant for Families",
       image: "./amaikaplan.png",
       description:
-        "As a co-founder, I coded this working web app for creating travel plans with AI for families using Next.js, Google Firebase, Stripe API for payment gateway, Open AI API (GPT-4), and Material UI. Additionally, I created the design and styles using the Figma app.",
+        "Create Travel plans with AI for families using Next.js, Google Firebase, Stripe API for payment gateway, Open AI API (GPT-4), Material UI and Figma.",
         link: "https://amaika.ai/",
     },
     {
