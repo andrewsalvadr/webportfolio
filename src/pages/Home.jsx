@@ -156,7 +156,7 @@ function Home() {
             </h3>
             <h3 className="font-pops text-blue-500 mb-5 sm:text-xs">
               {" "}
-              CAN WORK WITH: EXPRESS, NODEJS, POSTGRESQL, STRIPE API, FIGMA 
+              EXPRESS, NODEJS, POSTGRESQL, STRIPE API, FIGMA 
             </h3>
             <a href="/contact" className="flex justify-center font-pops font-bold text-white bg-blue-500 p-1 border border-white hover:bg-blue-600">Contact me</a>
 
